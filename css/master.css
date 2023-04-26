@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+strong {
+    font-weight: bold;
+}
+
+span {
+    display: none;
+}
+
+.container {
+    margin: auto;
+    max-width: 960px;
+}
+/* container toegevoegd*/
+
+img {
+    width: 100%;
+}
